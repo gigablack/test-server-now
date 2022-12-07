@@ -10,6 +10,6 @@
   "author": "Gustavo Bethelmy <tenchu96@gmail.com> (https://github.com/gigablack)",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
